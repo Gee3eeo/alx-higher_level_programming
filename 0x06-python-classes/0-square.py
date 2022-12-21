@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-#0-square.py by Gerald Isanbor
+# 0-square.py by Gerald Isanbor
 """Defines a square """
+
 
 class Square:
     """Does nothing"""
